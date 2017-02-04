@@ -1,0 +1,1 @@
+Project of the [Embedded Systems](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/ingenieriadecomputadores/sistemas-empotrados/!) subject using the development plate [Econotag](https://github.com/cetic/6lbr/wiki/Econotag-Configuration).
